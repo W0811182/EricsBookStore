@@ -84,3 +84,4 @@ copied '_ViewImport' and '_ViewStart' to 'Customers' Area
 
 Created the 'Admin' Area and deleted Models and Data Folders
 
+Deleted the Controllers Folder within the Main Project 
